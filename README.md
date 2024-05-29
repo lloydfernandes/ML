@@ -1,2 +1,1 @@
-# csci933
-UOW CSCI933 space
+first.py - Aspect is Unsupervised. LDA Used
